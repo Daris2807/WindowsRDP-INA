@@ -1,6 +1,6 @@
 # RDP Windows 2019 Gratis 100%
 
-RDP Windows Gratis 24 jam Always ON
+RDP Windows Gratis 6 Jam ON
 
 Repo link: https://github.com/hasbi313/WindowsRDP-INA2
 
