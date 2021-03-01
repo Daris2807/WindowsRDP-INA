@@ -4,7 +4,7 @@ RDP Windows Gratis 24 jam Always ON
 
 Repo link: https://github.com/hasbi313/WindowsRDP-INA2
 
-YouTube Video: soon
+YouTube Video: https://youtu.be/Ou9yRsvNE9I
 
 Buat RDP Windows Ram 7GB 2core cpu Dengan Github:
 
@@ -24,4 +24,4 @@ Buat RDP Windows Ram 7GB 2core cpu Dengan Github:
 
 + My FB : HasbiHidayat
 + My Whatsapp : 081230423770
-+ My Youtube : ItsHasbi
++ My Youtube : https://youtu.be/Ou9yRsvNE9I
